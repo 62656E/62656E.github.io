@@ -3,48 +3,39 @@ layout: default
 title: Home
 ---
 
-<header>
-  <h1>Benjamin Travis</h1>
-  <p>Post-Graduate Researcher | Anglia Ruskin University (Cambridge) | Chronobiology</p>
-</header>
+# Benjamin Travis
 
-<nav>
-  <ul>
-    <li><a href="#about">About</a></li>
-    <li><a href="#research">Research</a></li>
-    <li><a href="#publications">Publications</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ul>
-</nav>
+_Chronobiology PhD Researcher | Anglia Ruskin University (Cambridge)_
 
-<section id="about">
-  <h2>About Me</h2>
-  <p>I completed my undergraduate degree in Biomedical Sciences from Anglia Ruskin University (ARU) in 2020, graduating with a first-class degree. My dissertation project centred on the effect of copper ions on the coagulation of blood.</p>
-  <p>Following this, I completed my Masters degree in Applied Biosciences at ARU, obtaining a merit, with a final project on the role of <i>Musca domestica</i> as antimicrobial resistance gene transmission vectors.</p>
-  <p>I am now, after a brief interlude working within student services, completing my PhD on the role of circadian gene variants in the pathogenesis of epilepsy, with Drs Tim Hearn, Krithika Sundararaman and Clett Erridge at ARU.</p>
-</section>
+---
 
-<section id="research">
-  <h2>Research</h2>
-  <p>Summary of your current and past research projects.</p>
-</section>
+## About Me
 
-<section id="publications">
-  <h2>Publications</h2>
-  <ul>
-    <li>Publication 1 - <a href="#">DOI/Link</a></li>
-    <li>Publication 2 - <a href="#">DOI/Link</a></li>
-    <li>Publication 3 - <a href="#">DOI/Link</a></li>
-  </ul>
-</section>
+I completed my undergraduate degree in Biomedical Sciences from Anglia Ruskin University (ARU) in 2020, graduating with a first-class degree. My dissertation project centred on the effect of copper ions on the coagulation of blood.
 
-<section id="contact">
-  <h2>Contact</h2>
-  <p>Email: <a href="mailto:bet109@aru.ac.uk">bet109@aru.ac.uk</a></p>
-  <p>Institution: Anglia Ruskin University</p>
-  <p>LinkedIn: <a href="https://www.linkedin.com/in/benjamin-travis-31b7a3142/" target="_blank">https://www.linkedin.com/in/benjamin-travis-31b7a3142/</a></p>
-</section>
+Following this, I completed my Masters degree in Applied Biosciences at ARU, obtaining a merit, with a final project on the role of *Musca domestica* as antimicrobial resistance gene transmission vectors.
 
-<footer>
-  <p>&copy; 2025 Benjamin Travis | Hosted on <a href="https://pages.github.com/">GitHub Pages</a></p>
-</footer>
+I am now, after a brief interlude working within student services, completing my PhD on the role of circadian gene variants in the pathogenesis of epilepsy, with Drs Tim Hearn, Krithika Sundararaman and Clett Erridge at ARU.
+
+---
+
+## Research
+
+Summary of your current and past research projects.
+
+---
+
+## Publications
+
+- Publication 1 – [DOI/Link](#)
+- Publication 2 – [DOI/Link](#)
+- Publication 3 – [DOI/Link](#)
+
+---
+
+## Contact
+
+- **Email**: [bet109@aru.ac.uk](mailto:bet109@aru.ac.uk)  
+- **Institution**: Anglia Ruskin University  
+- **LinkedIn**: [https://www.linkedin.com/in/benjamin-travis-31b7a3142/](https://www.linkedin.com/in/benjamin-travis-31b7a3142/)
+- **ORCID**: [https://orcid.org/0000-0003-4016-4037](https://orcid.org/0000-0003-4016-4037)
