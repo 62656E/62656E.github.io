@@ -5,9 +5,7 @@ title: Home
 
 # Benjamin Travis
 
-_Chronobiology PhD Researcher | Anglia Ruskin University (Cambridge)_
-
----
+Chronobiology PhD Researcher | Anglia Ruskin University (Cambridge)
 
 ## About Me
 
@@ -21,7 +19,8 @@ I am now, after a brief interlude working within student services, completing my
 
 ## Research
 
-Summary of your current and past research projects.
+My current research focuses on the role of circadian gene variants in the pathogenesis of epilepsy. I am particularly interested in how these genetic factors interact with environmental influences to affect disease onset and progression.
+I am also exploring the potential for circadian rhythm modulation as a therapeutic strategy in epilepsy management. This research aims to provide insights into the underlying mechanisms of epilepsy and identify novel targets for intervention.
 
 ---
 
